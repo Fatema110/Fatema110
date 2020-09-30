@@ -3,7 +3,8 @@
 Full Stack Web Dev and Programming Enthusiast
 
 ### 🔭 I’m currently working on Python, Data Science, Machine learning, HTML, CSS & Bootstrap 
- 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 <!--
