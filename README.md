@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Fatema 
 
-### Full Stack Web Dev and Programming Enthusiast
+Full Stack Web Dev and Programming Enthusiast
 
 ### 🔭 I’m currently working on ### Python, Data Science, Machine learning, HTML, CSS & Bootstrap 
  
