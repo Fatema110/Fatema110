@@ -1,16 +1,17 @@
 ### Hi there 👋 I am Fatema 
 
-Full Stack Web Dev and Programming Enthusiast
+### Full Stack Web Dev and Programming Enthusiast
+
+### 🔭 I’m currently working on ### Python, Data Science, Machine learning, HTML, CSS & Bootstrap 
+ 
+
 
 <!--
 **Fatema110/Fatema110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 -->
-🔧 Langs / Tools / Frameworks
- 🔭 I’m currently working on Python, Data Science, Machine learning, HTML, CSS & Bootstrap 
- 🌱 I’m currently learning Javascript, React & Angular
- ⚡ Fun fact: Love Reading Books
+
+
 
 <!--
 - 👯 I’m looking to collaborate on ...
