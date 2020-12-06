@@ -3,6 +3,13 @@
 Full Stack Web Dev and Programming Enthusiast
 
 ### 🔭 I’m currently working on Python, Data Science, Machine learning, HTML, CSS & Bootstrap 
+
+[![Fatema's github stats](https://github-readme-stats.vercel.app/api?username=khuyentran1401&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
