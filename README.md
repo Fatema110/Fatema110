@@ -4,7 +4,7 @@ Full Stack Web Dev and Programming Enthusiast
 
 ### 🔭 I’m currently working on Python, Data Science, Machine learning, HTML, CSS & Bootstrap 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatema110)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatema110)](https://github.com/fatema/github-readme-stats)
 
 <!--
 [![Fatema's github stats](https://github-readme-stats.vercel.app/api?username=Fatema110&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/fatema110/github-readme-stats)
