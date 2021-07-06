@@ -1,7 +1,7 @@
 # Hi there 👋 
 
 I'm Fatema Vajihee!
-* **Currently :** Undergrad CS Enginnering Student at Mumbai University.
+* Currently : Undergrad Computer Engineering Student at Mumbai University.
 * I'm a Full Stack Web Dev and Programming Enthusiast
 
 ### I’m currently learning 
